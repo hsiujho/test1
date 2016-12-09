@@ -11,5 +11,7 @@ require(googleVis)
 #rm(list=ls())
 #path1="C:\\Users\\User\\Google 雲端硬碟\\work\\20141021 GutBiome\\20150115 diet\\"
 #load(sprintf("%s%s",path1,"tax_reads.rdata"))
+#sdfsd
+#sdfsdf
 load("tax_reads.rdata")
 lvn=c("Kingdom","Phylum","Class","Order","Family","Genus","Species")
