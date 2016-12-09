@@ -9,6 +9,6 @@ require(ade4)
 require(pheatmap)
 require(googleVis)
 #rm(list=ls())
-
+#test
 load("tax_reads.rdata")
 lvn=c("Kingdom","Phylum","Class","Order","Family","Genus","Species")
