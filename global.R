@@ -13,5 +13,6 @@ require(googleVis)
 #load(sprintf("%s%s",path1,"tax_reads.rdata"))
 #sdfsd
 #sdfsdf
+#
 load("tax_reads.rdata")
 lvn=c("Kingdom","Phylum","Class","Order","Family","Genus","Species")
